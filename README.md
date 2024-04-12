@@ -1,2 +1,1 @@
-# itclab-07
-PID-iTCLab Programming Using Python GUI
+# PID-iTCLab Programming Using Python GUI
